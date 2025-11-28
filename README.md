@@ -8,7 +8,7 @@ routing, centralized configuration, service discovery, deployment
 automation, and a modern Angular frontend.
 
 ### Frontend / Gateway:
-https://34.54.201.1.sslip.io/
+- https://34.54.201.1.sslip.io/
 
 ## 🚀 Architecture Overview
 
